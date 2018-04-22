@@ -25,7 +25,7 @@
           `/*
 * Inspired by http://strml.net/
 * 大家好，我是LearnAndRecord。
-* 我来写炫个别人的简历模板！
+* 我来炫个别人的简历模板！
 */
 
 /* 首先给所有元素加上过渡效果 */
