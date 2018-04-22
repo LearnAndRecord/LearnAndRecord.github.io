@@ -24,8 +24,8 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是南方。
-* 我来写一份简历！
+* 大家好，我是LearnAndRecord。
+* 我来写炫个别人的简历！
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -71,7 +71,7 @@ html{
   background: white; color: #222;
   overflow: auto;
 }
-/* 好了，我开始写简历了 */
+/* 好了，开始写简历了 */
 
 
 `,`
@@ -111,122 +111,24 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `南方
+        fullMarkdown: `LearnAndRecord
 ====
 
-坐标：湖南长沙。
+LR君。
+学IT工科男，研究生在读。
+2015年2月8日开始运营LearnAndRecord 至今。
+每天持续行动学外语，第1000+天。
 
-资深软件工程师，资深产品经理，高级项目经理。现为自由职业。
-
-[下载离线简历](http://www.sitexa.org/anires/static/resume.pdf)
-
-技能
-====
-
-数据库设计
-----
-  - 结构化数据库设计
-  - noSQL设计
-
-后端开发
-----
-  - 用户管理
-  - 单点登录
-  - 第三方登录
-  - 权限管理
-  - 交易系统
-  - 支付系统
-  - 社区系统
-  - 博客系统
-  - 公众号开发
-  - 小程序开发
-  - API接口开发
-
-前端开发
-----
-  - Web前端开发
-  - 移动终端(Native App, Hybrid App)
-
-产品设计
-----
-  - 智慧旅游项目
-  - 运动健康云平台
-  - 社区支持农业O2O项目
-  - 省级环境监控平台
-  - 高速公路异地处罚系统
-  - 环保局办公自动化系统
-  - 保险公司数据迁移项目
-  - 啤酒厂供应链项目
-  - 货运代理系统
-  - 集装箱管理系统
-  - 滞期费管理项目
-
-技术及语言
-----
-  - Java: SpringMVC, SpringCloud, Hibernate, iBatis, spark, sql2o, HikariCP, freemarker, okHttp, retrofit, RxJava
-  - Kotlin: ktor, exposed, anko
-  - Node.js: express, angular, ionic, react, cordova, meteor, electron, axios
-  - Swift: Vapor, ReactiveSwift
-  - Golang: hugo, beego, gorm, sqlx, matcha
-  - Python: tushare, pandas, numpy, matplotlib
-  - DotNet and PHP
-  - DB: SQLServer, Oracle, MySQL/MariaDB, MongoDB, graphQL, redis, memcached
-  - WebServer: apache, nginx, tomcat, netty, jetty
-  - OS: Ubuntu, CentOS, MacOS, Windows
-  - Others: Docker, git, Xmind，Axure
-
-工作经历
-====
-
-1. 湖南融耀健康管理有限公司
-2. 湖南三英特旅游智能技术有限公司
-3. 合肥蓝盾科技有限公司
-4. 上海易保网络有限公司
-5. 厦门海环计算机软件有限公司
-
-教育经历
-====
-
-1. 华东理工大学 环境工程学士
-2. 厦门大学 系统工程硕士
-
-文章
-====
-
-* [故土难离（我的父亲母亲）](https://www.meipian.cn/qacqfbz?uuid=d541c15eef694065bc9d1ac9a07925a2)
-* [油腻腻的中年（小诗）](https://www.meipian.cn/wjaz3zh?uuid=ca1cd053b717451da781786de44e66e7)
-* [生命（老四们的蝼蚁人生）](https://www.meipian.cn/vc4pr59?uuid=799c98f5a187405c94c86f7da7788869)
-* [大健康商业模式](http://www.sitexa.org/technology/%E5%A4%A7%E5%81%A5%E5%BA%B7%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F.html)
-* [社区社交商业模型](http://www.sitexa.org/other/%E7%A4%BE%E5%8C%BA%E7%A4%BE%E4%BA%A4%E5%95%86%E4%B8%9A%E6%A8%A1%E5%9E%8B.html)
-
-链接
-====
-
-* [GitHub](https://github.com/sitexa)
-* [技术博客](http://www.sitexa.org)
-* [南方时代](http://www.sitexa.net)
-* [神秘湘鄂西](http://www.sitexa.cn)
 
 联系方式
 ====
 
-* 电话：18673107430
-* 微信：18673107430
-* 邮箱：xnpeng@163.com
+* 微博：@LearnAndRecord
+* 微信公众号：LearnAndRecord
+* 微信：learnrecord
+* [个人主页](http://www.learnandrecord.com)
 
-离线简历
-====
 
-[下载简历](http://www.sitexa.org/anires/static/resume.pdf)
-
-补充说明
-====
-
-* 这两天我的简历突然传开了，一些老板跟我联系，很多朋友关心我，盛情邀请我去面试，我表示万分感谢！
-因为我定居在湖南长沙，首先想在长沙找工作，要是找不到就去外地找。
-
-* 朋友们的热情让我无地自容，我只是想找份工作而已，简历上写了很多技术，我虽然学过做过，也就是懂一点皮毛，
-不是什么大牛大神大佬。一当找到工作，我就把简历下线了。
 `
       }
     },
